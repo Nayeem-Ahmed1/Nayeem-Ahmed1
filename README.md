@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js,Next.js**
 
-- 💬 Ask me about **react,javascript,three.js,gsap**
+- 💬 Ask me about **React,JavaScript,three.js,gsap**
 
 - 📫 How to reach me **nayeem.ahmed.242@northsouth.edu**
 
