@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nayeem.ahmed.242@northsouth.edu**
 
-- ⚡ Fun fact **I think I like Gaming and love to watch anime**
+- ⚡ Fun fact **I think I like Gaming and love to watch Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
