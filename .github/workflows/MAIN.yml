@@ -17,6 +17,8 @@ jobs:
           github_user_name: Nayeem-Ahmed1
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push snake to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
