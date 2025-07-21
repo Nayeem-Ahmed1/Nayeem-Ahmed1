@@ -28,7 +28,8 @@
 
 ![snake gif](https://github.com/Nayeem-Ahmed1/Nayeem-Ahmed1/blob/output/github-snake-dark.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayeem-ahmed1&show_icons=true&locale=en&layout=compact" alt="nayeem-ahmed1" /></p>
+![](https://nirzak-streak-stats.vercel.app/?user=Nayeem-Ahmed1&theme=dark&hide_border=false)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayeem-ahmed1&show_icons=true&locale=en" alt="nayeem-ahmed1" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeem-Ahmed1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
